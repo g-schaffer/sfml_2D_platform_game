@@ -1,6 +1,6 @@
 Debug/
 .vs/
-game.*
+sfml_2D_platform_game.*
 bin/
 openal32.dll
 sfml-audio-2.dll
