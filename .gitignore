@@ -2,3 +2,4 @@ Debug/
 .vs/
 sfml_2D_platform_game.*
 bin/
+*.dll
